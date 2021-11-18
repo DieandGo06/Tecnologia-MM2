@@ -1,0 +1,230 @@
+{
+  "audio": "audios/aireFrio.mp3",
+  "modelo": "modelos/modeloLoveCraft.glb",
+  "fondo": "rgb(19,21,41)",
+  "data": [
+    {
+      "tiempo": "00:00",
+      "camara": "cam1",
+      "target": "target1",
+      "nombre": "Primera cosa"
+    },
+    {
+      "tiempo": "00:01",
+      "duracion": 4000,
+      "camara": "cam1",
+      "target": "target2",
+      "nombre": "Segunda cosa"
+    },
+    {
+      "tiempo": "00:05",
+      "duracion": 4000,
+      "camara": "cam1",
+      "target": "target3",
+      "nombre": "Tercera cosa"
+    },
+    {
+      "tiempo": "00:09",
+      "duracion": 0,
+      "camara": "camNegra",
+      "target": "target3",
+      "nombre": "Tercera cosa"
+    },
+    {
+      "tiempo": "00:13",
+      "duracion": 0,
+      "camara": "cam2",
+      "target": "target4",
+      "nombre": "Tercera cosa"
+    },
+    {
+      "tiempo": "00:15",
+      "duracion": 3000,
+      "camara": "cam2",
+      "target": "target5",
+      "nombre": "Tercera cosa"
+    },
+    {
+        "tiempo": "00:21",
+        "duracion": 0,
+        "camara": "cam3",
+        "target": "target6",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:25",
+        "duracion": 500,
+        "camara": "cam3",
+        "target": "target7",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:26",
+        "duracion": 500,
+        "camara": "cam3",
+        "target": "target8",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:27",
+        "duracion": 500,
+        "camara": "cam3",
+        "target": "target9",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:29",
+        "duracion": 2000,
+        "camara": "cam4",
+        "target": "target9",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:31",
+        "duracion": 4000,
+        "camara": "cam5",
+        "target": "target10",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:35",
+        "duracion": 0,
+        "camara": "camNegra",
+        "target": "target10",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:37",
+        "duracion": 0,
+        "camara": "cam6",
+        "target": "target11",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:44",
+        "duracion": 0,
+        "camara": "camRoja",
+        "target": "target11",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:45",
+        "duracion": 0,
+        "camara": "cam6",
+        "target": "target11",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:46",
+        "duracion": 0,
+        "camara": "camRoja",
+        "target": "target11",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:47",
+        "duracion": 0,
+        "camara": "cam6",
+        "target": "target11",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:49",
+        "duracion": 2000,
+        "camara": "cam7",
+        "target": "target12Paso0",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:52",
+        "duracion": 1000,
+        "camara": "cam8Paso1",
+        "target": "target13Paso1",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:54",
+        "duracion": 1000,
+        "camara": "cam9Paso2",
+        "target": "target12Paso0",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:56",
+        "duracion": 1000,
+        "camara": "cam10Paso3",
+        "target": "target13Paso1",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:58",
+        "duracion": 1000,
+        "camara": "cam11Paso4",
+        "target": "target14Piso",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "00:59",
+        "duracion": 0,
+        "camara": "camNegra",
+        "target": "target14Piso",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "01:01",
+        "duracion": 0,
+        "camara": "cam12Cambio",
+        "target": "target15Cambio",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "01:06",
+        "duracion": 4000,
+        "camara": "cam13Borrar",
+        "target": "target16Borrar",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "01:10",
+        "duracion": 4000,
+        "camara": "cam13Borrar",
+        "target": "target17Borrar",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "01:14",
+        "duracion": 4000,
+        "camara": "cam13Borrar",
+        "target": "target18Borrar",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "01:18",
+        "duracion": 4000,
+        "camara": "cam13Borrar",
+        "target": "target19Borrar",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "01:22",
+        "duracion": 4000,
+        "camara": "cam13Borrar",
+        "target": "target20Borrar",
+        "nombre": "Tercera cosa"
+      },
+      {
+        "tiempo": "01:26",
+        "duracion": 4000,
+        "camara": "cam14Borrar",
+        "target": "target20Borrar",
+        "nombre": "Tercera cosa"
+      },
+    {
+      "tiempo": "20:13",
+      "duracion": 0,
+      "camara": "cam1",
+      "target": "target3",
+      "nombre": "Tercera cosa"
+    }
+  ]
+}
