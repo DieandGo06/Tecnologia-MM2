@@ -384,6 +384,7 @@
             "camara": "target33(cam14)",
             "target": "target32(cam14)",
             "fadeIn": 3000,
+             "fadeColor": "rgb(0,0,0)",
             "nombre": "Final"
         },
         {
